@@ -91,12 +91,12 @@ p {
     color: #ffffff;
 }
 /* consolidated repetitive code blocks, dry it up */
-.benefit-lead h3, .benefit-brand, .benefit-cost {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3{
     margin-bottom: 10px;
     text-align: center;
 }
 /* consolidated repeated code */
-.benefit-lead img,.benefit-brand, .benefit-cost {
+.benefit-lead img, .benefit-brand img, .benefit-cost img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
