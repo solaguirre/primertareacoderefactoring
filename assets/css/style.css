@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -110,7 +110,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* consolidated repetitive */
+/* consolidated repetitive code*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
